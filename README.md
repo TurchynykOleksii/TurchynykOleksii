@@ -13,7 +13,7 @@
 
 ###
 
-<img src="https://github.com/TurchynykOleksii/TurchynykOleksii/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/TurchynykOleksii/TurchynykOleksii/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
